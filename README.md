@@ -1,7 +1,7 @@
 # Generador-de-imagenes
 
 
-##Bitácora de cada día en el desarrollo del tp
+Bitácora de cada día en el desarrollo del tp
 
 | Fecha | Comentario |
 | ------------- | ------------- |
